@@ -1,0 +1,11 @@
+{
+  "name": "@sjs/cli",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": {
+    "sjs": "./index.js"
+  },
+  "dependencies": {
+    "@sjs/compiler": "workspace:*"
+  }
+}

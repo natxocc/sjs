@@ -1,0 +1,7 @@
+{
+  "name": "sjs-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
